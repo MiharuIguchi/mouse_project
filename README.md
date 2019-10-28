@@ -13,3 +13,5 @@ assumptions:
 
 
 #Credits
+reference:
+- [The Jackson Laboratory](https://www.jax.org/jax-mice-and-services/customer-support/technical-support/breeding-and-husbandry-support/colony-planning) 
